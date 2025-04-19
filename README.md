@@ -1,7 +1,7 @@
 ## 🙆‍♀️About Me
         
-Hi, I'm Silvia Wu — passionate about digital innovation, sustainability and using technology to solve real-world problems. 
-I enjoy building apps, analysing data and sharing my journey through tech and business.
+📌Hi, I'm Silvia Wu — passionate about digital innovation, sustainability and using technology to solve real-world problems. 
+I enjoy building apps, analysing data and sharing my journey through tech and business. ✒️  
 
 ## 🛠️ Skills
 - Python, SQL, HTML/CSS, JavaScript
@@ -11,10 +11,11 @@ I enjoy building apps, analysing data and sharing my journey through tech and bu
 - Business Analysis & Project Management
 - Customer relationship management & Sales development
 
-## 📁 Featured Projects
-- **My Expense Tracker** – A simple web app to track each expense
-- **Portfolio** – My portfolio showcases skills and projects
-- **Personal Blog ** – A blog site sharing my latest events, photos and articles
+## 🗂️ Featured Projects   
+- **My Expense Tracker**🧮 – A simple web app to track and record each expense
+- **Portfolio** 💽– My portfolio showcases skills and projects
+- **Personal Blog**📑 – A blog site shares my latest events, photos and articles
+          
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shihhsuanwu/)
