@@ -12,7 +12,7 @@ I enjoy building apps, analysing data and sharing my journey through tech and bu
 - Customer relationship management & Sales development
 
 ## 📁 Featured Projects
-- **My Expense Calculator** – A simple web app to track each expense
+- **My Expense Tracker** – A simple web app to track each expense
 - **Portfolio** – My portfolio showcases skills and projects
 - **Personal Blog Website** – A blog site sharing my latest events, photos and articles
 
