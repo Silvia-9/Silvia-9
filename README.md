@@ -18,7 +18,7 @@ I enjoy building apps, analysing data and sharing my journey through tech and bu
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shihhsuanwu/)
-- [GitHub](https://silvia-9.github.io/myportfolio)
+- [GitHub](https://silvia-9.github.io/silviawu)
 - [Email Me](mailto:silviawu1001@gmail.com)
 
 ---
