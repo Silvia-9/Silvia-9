@@ -14,7 +14,7 @@ I enjoy building apps, analysing data and sharing my journey through tech and bu
 ## 📁 Featured Projects
 - **My Expense Tracker** – A simple web app to track each expense
 - **Portfolio** – My portfolio showcases skills and projects
-- **Personal Blog Website** – A blog site sharing my latest events, photos and articles
+- **Personal Blog ** – A blog site sharing my latest events, photos and articles
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/shihhsuanwu/)
