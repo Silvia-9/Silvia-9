@@ -15,9 +15,10 @@ I enjoy building apps, analysing data, and sharing my journey through tech and b
 
 
 # 🗂️ **Featured Projects**
-- **My Expense Tracker** 🧮 – A simple web app to track and record each expense  
-- **Portfolio** 💽 – My portfolio showcases skills and projects  
-- **Personal Blog** 📑 – A blog site sharing my latest events, photos, and articles  
+- **EatWise Quizz** 🏆– Think you know sugar? Put your knowledge to the test on our interactive platform and uncover the surprising facts behind your daily dose of sweetness!
+- **My Expense Tracker** 🧮 – Tired of losing track of your spending? Discover the web app that transforms expenses into insights, making budgeting a breeze!    
+- **Portfolio** 💽 – Explore my portfolio, a vibrant showcase of skills and projects that bring my professional journey to life! 
+- **Personal Blog** 📑 – Ready to explore the moments that matter? Join me as I unveil my latest products, share breathtaking photos, and write thought-provoking articles that inspire!
 
 
 
