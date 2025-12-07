@@ -1,6 +1,5 @@
 # 🙆‍♀️ **About Me**
-📌 Hi, I'm **Silvia Wu** — passionate about digital innovation, sustainability, and using technology to solve real-world problems.  
-I enjoy building apps, analysing data, and sharing my journey through tech and business. ✒️  
+📌 Hi, I'm **Silvia Wu** — passionate about digital innovation, sustainability, and using technology to solve real-world problems. I enjoy building apps, analysing data, and sharing my journey through tech and business. ✒️  
 
 
 
