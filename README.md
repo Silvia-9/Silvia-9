@@ -4,13 +4,14 @@
 
 
 # 🛠️ **Skills**
+- Business Analysis & Project Management  
+- Customer Relationship Management & Sales Development
+- Supply chain & logistics
+- Digital Marketing & E-commerce  
+- Data Analysis & Visualisation   
 - Python, SQL, HTML/CSS, JavaScript  
 - Git & GitHub  
-- Digital Marketing & E-commerce  
-- Data Analysis & Visualisation  
-- Business Analysis & Project Management  
-- Customer Relationship Management & Sales Development  
-
+ 
 
 
 # 🗂️ **Featured Projects**
